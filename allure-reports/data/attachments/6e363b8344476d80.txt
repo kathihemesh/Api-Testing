@@ -1,0 +1,3 @@
+[32mINFO    [0m test_gorest_api:test_gorest_api.py:93 PUT https://gorest.co.in/public/v2/users/8013761 - Status: 404
+[32mINFO    [0m test_gorest_api:test_gorest_api.py:94 Payload: {'name': 'ganesh12 Updated', 'status': 'inactive'}
+[32mINFO    [0m test_gorest_api:test_gorest_api.py:95 Response JSON: {"message":"Resource not found"}

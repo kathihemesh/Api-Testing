@@ -1,0 +1,4 @@
+2025-07-17 20:22:02,721 - test_reqres_api - INFO - User created successfully
+2025-07-17 20:22:02,724 - test_reqres_api - INFO - Created user: {'id': 8013663, 'name': 'TEST_USER', 'email': 'test_user@gmail.com', 'gender': 'male', 'status': 'active'}
+2025-07-17 20:22:03,721 - test_reqres_api - INFO - Successfully fetched user
+2025-07-17 20:22:03,722 - test_reqres_api - INFO - user name matches expected value

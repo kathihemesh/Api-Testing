@@ -1,0 +1,4 @@
+2025-07-17 20:22:00,548 - test_mock_api - INFO - Mocked GET user - Status: 200
+2025-07-17 20:22:00,549 - test_mock_api - INFO - Mocked Response JSON: {'id': 1, 'name': 'Leanne Graham', 'username': 'Bret', 'email': 'Sincere@april.biz'}
+2025-07-17 20:22:00,550 - test_mock_api - INFO - Assertion passed: User status code is 200
+2025-07-17 20:22:00,550 - test_mock_api - INFO - Assertion passed: User JSON response matched

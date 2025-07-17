@@ -1,0 +1,4 @@
+[32mINFO    [0m test_mock_api:test_mock_api.py:107 Mocked PUT user - Status: 200
+[32mINFO    [0m test_mock_api:test_mock_api.py:108 Mocked PUT Response JSON: {'id': 1, 'name': 'Updated User', 'username': 'Bret', 'email': 'updated@example.com'}
+[32mINFO    [0m test_mock_api:test_mock_api.py:21 Assertion passed: User updated with status 200
+[32mINFO    [0m test_mock_api:test_mock_api.py:21 Assertion passed: User name updated

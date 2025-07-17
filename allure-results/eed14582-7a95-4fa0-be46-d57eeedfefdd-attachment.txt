@@ -1,0 +1,2 @@
+2025-07-17 20:22:00,627 - test_mock_api - INFO - Mocked DELETE user - Status: 204
+2025-07-17 20:22:00,628 - test_mock_api - INFO - Assertion passed: User deleted with status 204

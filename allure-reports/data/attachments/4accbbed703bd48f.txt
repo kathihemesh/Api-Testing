@@ -1,0 +1,2 @@
+[32mINFO    [0m test_mock_api:test_mock_api.py:126 Mocked DELETE user - Status: 204
+[32mINFO    [0m test_mock_api:test_mock_api.py:21 Assertion passed: User deleted with status 204

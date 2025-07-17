@@ -1,0 +1,2 @@
+2025-07-17 20:22:00,487 - test_gorest_api - INFO - DELETE 8013662
+2025-07-17 20:22:00,488 - test_gorest_api - INFO - User deleted successfully

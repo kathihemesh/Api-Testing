@@ -1,0 +1,4 @@
+[32mINFO    [0m test_mock_api:test_mock_api.py:48 Mocked GET user - Status: 200
+[32mINFO    [0m test_mock_api:test_mock_api.py:49 Mocked Response JSON: {'id': 1, 'name': 'Leanne Graham', 'username': 'Bret', 'email': 'Sincere@april.biz'}
+[32mINFO    [0m test_mock_api:test_mock_api.py:21 Assertion passed: User status code is 200
+[32mINFO    [0m test_mock_api:test_mock_api.py:21 Assertion passed: User JSON response matched

@@ -1,0 +1,8 @@
+2025-07-17 20:21:58,391 - test_gorest_api - INFO - POST https://gorest.co.in/public/v2/users - Status: 201
+2025-07-17 20:21:58,392 - test_gorest_api - INFO - Payload: {'name': 'ganesh123', 'email': 'ganesh12@gmail.com', 'gender': 'male', 'status': 'active'}
+2025-07-17 20:21:58,393 - test_gorest_api - INFO - Response JSON: {"id":8013662,"name":"ganesh123","email":"ganesh12@gmail.com","gender":"male","status":"active"}
+2025-07-17 20:21:58,393 - test_gorest_api - INFO - User created successfully
+2025-07-17 20:21:58,393 - test_gorest_api - INFO - Assertion passed: User name matches
+2025-07-17 20:21:58,394 - test_gorest_api - ERROR - Assertion failed: User email matches : assert False
+2025-07-17 20:21:58,394 - test_gorest_api - INFO - Assertion passed: User gender matches
+2025-07-17 20:21:58,394 - test_gorest_api - INFO - Assertion passed: User status matches

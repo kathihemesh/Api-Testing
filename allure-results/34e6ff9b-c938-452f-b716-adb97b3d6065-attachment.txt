@@ -1,0 +1,5 @@
+[32mINFO    [0m test_reqres_api:test_reqres_api.py:66 User created successfully
+[32mINFO    [0m test_reqres_api:test_reqres_api.py:80 Created user: {'id': 8013663, 'name': 'TEST_USER', 'email': 'test_user@gmail.com', 'gender': 'male', 'status': 'active'}
+[32mINFO    [0m test_reqres_api:test_reqres_api.py:84 Successfully fetched user
+[32mINFO    [0m test_reqres_api:test_reqres_api.py:86 user name matches expected value
+[32mINFO    [0m test_reqres_api:test_reqres_api.py:75 User deleted successfully

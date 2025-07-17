@@ -1,0 +1,4 @@
+[32mINFO    [0m test_mock_api:test_mock_api.py:78 Mocked POST user - Status: 201
+[32mINFO    [0m test_mock_api:test_mock_api.py:79 Mocked POST Response JSON: {'id': 11, 'name': 'New User', 'username': 'newuser', 'email': 'newuser@example.com'}
+[32mINFO    [0m test_mock_api:test_mock_api.py:21 Assertion passed: User created with status 201
+[32mINFO    [0m test_mock_api:test_mock_api.py:21 Assertion passed: User name matches

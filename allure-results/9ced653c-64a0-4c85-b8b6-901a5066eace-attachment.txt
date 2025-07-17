@@ -1,0 +1,3 @@
+[32mINFO    [0m test_reqres_api:test_reqres_api.py:36 GET https://reqres.in/api/users/999 - Status: 404
+[32mINFO    [0m test_reqres_api:test_reqres_api.py:38 Successfully fetched user
+[32mINFO    [0m test_reqres_api:test_reqres_api.py:47 expected status for user_id 999: 404

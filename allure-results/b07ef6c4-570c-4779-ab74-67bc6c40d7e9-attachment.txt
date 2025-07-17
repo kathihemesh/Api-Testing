@@ -1,0 +1,2 @@
+[32mINFO    [0m test_gorest_api:test_gorest_api.py:115 DELETE 8013662
+[32mINFO    [0m test_gorest_api:test_gorest_api.py:117 User deleted successfully

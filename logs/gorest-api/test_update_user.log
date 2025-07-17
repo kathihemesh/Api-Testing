@@ -1,0 +1,3 @@
+2025-07-17 20:21:59,464 - test_gorest_api - INFO - PUT https://gorest.co.in/public/v2/users/8013761 - Status: 404
+2025-07-17 20:21:59,466 - test_gorest_api - INFO - Payload: {'name': 'ganesh12 Updated', 'status': 'inactive'}
+2025-07-17 20:21:59,466 - test_gorest_api - INFO - Response JSON: {"message":"Resource not found"}
