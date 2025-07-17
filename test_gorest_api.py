@@ -67,7 +67,7 @@ def test_create_user():
     data = response.json()
     # Intentionally failing assertion for demonstration
     log_assert(data["name"] == payload["name"], "User name matches", results)
-    log_assert(data["email"]+"999" == payload["email"], "User email matches", results)
+    log_assert(data["email"] == payload["email"], "User email matches", results)
     log_assert(data["gender"] == payload["gender"], "User gender matches", results)
     log_assert(data["status"] == payload["status"], "User status matches", results)
     user_id = data["id"]
@@ -89,8 +89,8 @@ def test_update_user():
         "name": "ganesh12 Updated",
         "status": "inactive" 
     }
-    response = requests.put(f"{GOREST_API_URL}/{user_id+99}", headers=GOREST_HEADERS, json=update_payload)
-    logger.info(f"PUT {GOREST_API_URL}/{user_id+99} - Status: {response.status_code}")
+    response = requests.put(f"{GOREST_API_URL}/{user_id}", headers=GOREST_HEADERS, json=update_payload)
+    logger.info(f"PUT {GOREST_API_URL}/{user_id} - Status: {response.status_code}")
     logger.info(f"Payload: {update_payload}")
     logger.info(f"Response JSON: {response.text}")
     assert response.status_code == 200, f"Failed to update user - status code: {response.status_code}"

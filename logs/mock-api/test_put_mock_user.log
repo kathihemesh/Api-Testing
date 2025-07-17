@@ -1,4 +1,4 @@
-2025-07-17 20:22:00,609 - test_mock_api - INFO - Mocked PUT user - Status: 200
-2025-07-17 20:22:00,609 - test_mock_api - INFO - Mocked PUT Response JSON: {'id': 1, 'name': 'Updated User', 'username': 'Bret', 'email': 'updated@example.com'}
-2025-07-17 20:22:00,609 - test_mock_api - INFO - Assertion passed: User updated with status 200
-2025-07-17 20:22:00,609 - test_mock_api - INFO - Assertion passed: User name updated
+2025-07-18 01:11:25,668 - test_mock_api - INFO - Mocked PUT user - Status: 200
+2025-07-18 01:11:25,668 - test_mock_api - INFO - Mocked PUT Response JSON: {'id': 1, 'name': 'Updated User', 'username': 'Bret', 'email': 'updated@example.com'}
+2025-07-18 01:11:25,668 - test_mock_api - INFO - Assertion passed: User updated with status 200
+2025-07-18 01:11:25,668 - test_mock_api - INFO - Assertion passed: User name updated

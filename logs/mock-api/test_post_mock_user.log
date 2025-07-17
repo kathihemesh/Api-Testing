@@ -1,4 +1,4 @@
-2025-07-17 20:22:00,585 - test_mock_api - INFO - Mocked POST user - Status: 201
-2025-07-17 20:22:00,586 - test_mock_api - INFO - Mocked POST Response JSON: {'id': 11, 'name': 'New User', 'username': 'newuser', 'email': 'newuser@example.com'}
-2025-07-17 20:22:00,586 - test_mock_api - INFO - Assertion passed: User created with status 201
-2025-07-17 20:22:00,586 - test_mock_api - INFO - Assertion passed: User name matches
+2025-07-18 01:11:25,660 - test_mock_api - INFO - Mocked POST user - Status: 201
+2025-07-18 01:11:25,661 - test_mock_api - INFO - Mocked POST Response JSON: {'id': 11, 'name': 'New User', 'username': 'newuser', 'email': 'newuser@example.com'}
+2025-07-18 01:11:25,661 - test_mock_api - INFO - Assertion passed: User created with status 201
+2025-07-18 01:11:25,661 - test_mock_api - INFO - Assertion passed: User name matches

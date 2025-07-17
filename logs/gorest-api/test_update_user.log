@@ -1,3 +1,6 @@
-2025-07-17 20:21:59,464 - test_gorest_api - INFO - PUT https://gorest.co.in/public/v2/users/8013761 - Status: 404
-2025-07-17 20:21:59,466 - test_gorest_api - INFO - Payload: {'name': 'ganesh12 Updated', 'status': 'inactive'}
-2025-07-17 20:21:59,466 - test_gorest_api - INFO - Response JSON: {"message":"Resource not found"}
+2025-07-18 01:11:24,571 - test_gorest_api - INFO - PUT https://gorest.co.in/public/v2/users/8014658 - Status: 200
+2025-07-18 01:11:24,572 - test_gorest_api - INFO - Payload: {'name': 'ganesh12 Updated', 'status': 'inactive'}
+2025-07-18 01:11:24,572 - test_gorest_api - INFO - Response JSON: {"name":"ganesh12 Updated","status":"inactive","id":8014658,"email":"ganesh12@gmail.com","gender":"male"}
+2025-07-18 01:11:24,573 - test_gorest_api - INFO - User updated successfully
+2025-07-18 01:11:24,573 - test_gorest_api - INFO - Assertion passed: User name updated
+2025-07-18 01:11:24,573 - test_gorest_api - INFO - Assertion passed: User status updated
